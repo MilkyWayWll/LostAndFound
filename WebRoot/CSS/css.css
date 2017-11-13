@@ -1,0 +1,44 @@
+@charset "utf-8";
+a:link {
+	text-decoration: none;
+	}
+a:visited {text-decoration: none;}
+a:hover {text-decoration: none;}
+a:active {text-decoration: none;}
+
+#leftname {
+	background-color: #3992D0;
+	text-align:center;
+	color: #FFFFFF;
+}
+#sign {
+	font-size: 13px;
+	color: #3992D0;
+}
+
+#reg {
+	color: #999;
+}
+#xin {
+	color: #F00;
+}
+.d {
+	color: #003;
+}
+#title {
+	text-align: center;
+	font-family:华文细黑,STHeiti,MingLiu;font-size:30px;color:#626262;
+	text-shadow:1px 1px 3px #599DD5;	
+}
+#time {
+	text-align: right;
+}
+#detail {
+	color: #3992D0;
+	font-family: "Courier New", Courier, monospace;
+	font-weight: bold;
+}
+#minititle {
+	text-align: center;
+	
+}
